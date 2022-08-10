@@ -32,13 +32,13 @@ library(RColorBrewer)
 ``` r
 #Amplicon data
 #16s data
-OTUs_16S=read.table("/Users/mas4037/Dropbox (Mason Lab)/Hillier/16S_primers_merged/table.from_biom.txt", header = T,sep="\t",stringsAsFactors = F) #Biom table from qiime2 needs to be open on a text editor since qiime2 includes extra first rows that need to be removed
+OTUs_16S=read.table("table.from_biom.txt", header = T,sep="\t",stringsAsFactors = F) #Biom table from qiime2 needs to be open on a text editor since qiime2 includes extra first rows that need to be removed
 OTUs_16S=t(OTUs_16S) #Make OTUs the columns
 colnames(OTUs_16S) <- OTUs_16S[1,] 
 OTUs_16S <- OTUs_16S[-1, ] 
 class(OTUs_16S) <- "numeric"
 
-tax_16s=read.table("/Users/mas4037/Dropbox (Mason Lab)/Hillier/16S_primers_merged/taxonomy.tsv", header = T,sep="\t") #Taxonomy table from qiime2
+tax_16s=read.table("taxonomy.tsv", header = T,sep="\t") #Taxonomy table from qiime2
 row.names(tax_16s) = tax_16s$FeatureID #Make OTUs the rownames
 tax_16s=tax_16s[,-1]
 tax.clean = separate(tax_16s, Taxon, into = c("Domain", "Phylum", "Class", "Order", "Family", "Genus", "Species"), sep=";")
@@ -47,7 +47,7 @@ tax.clean = tax.clean[,-which(names(tax.clean) %in% c("Confidence"))]
 otu_uf_16s = otu_table(OTUs_16S, taxa_are_rows=F)
 tax_uf_16s = tax_table(as.matrix(tax.clean))
 
-metadata_16s = read.table("/Users/mas4037/Dropbox (Mason Lab)/Hillier/16S_primers_merged/metadata-all.txt", header=TRUE,  sep="\t", dec = ".") #Sample names MUST be the same in both files, otherwise is not going to pair data 
+metadata_16s = read.table("metadata-all.txt", header=TRUE,  sep="\t", dec = ".") #Sample names MUST be the same in both files, otherwise is not going to pair data 
 rownames(metadata_16s) <- metadata_16s[,1] 
 meta_16s<-sample_data(metadata_16s)
 physeq = phyloseq(otu_uf_16s,tax_uf_16s, meta_16s)
@@ -55,13 +55,13 @@ hillier_phylo_16s <- merge_phyloseq (otu_uf_16s,tax_uf_16s, meta_16s)
 
 
 #18s data
-OTUs_18S=read.table("/Users/mas4037/Dropbox (Mason Lab)/Hillier/qiime_18S_1391f_EukBr/otu_biom_18s.txt", header = T,sep="\t",stringsAsFactors = F) #Biom table from qiime2 needs to be open on a text editor because it contains an extra first row
+OTUs_18S=read.table("qiime_18S_1391f_EukBr/otu_biom_18s.txt", header = T,sep="\t",stringsAsFactors = F) #Biom table from qiime2 needs to be open on a text editor because it contains an extra first row
 OTUs_18S=t(OTUs_18S) #Make OTUs the columns
 colnames(OTUs_18S) <- OTUs_18S[1,] 
 OTUs_18S <- OTUs_18S[-1, ] 
 class(OTUs_18S) <- "numeric"
 
-tax_18s=read.table("/Users/mas4037/Dropbox (Mason Lab)/Hillier/qiime_18S_1391f_EukBr/taxonomy_18s.tsv", header = T,sep="\t")
+tax_18s=read.table("qiime_18S_1391f_EukBr/taxonomy_18s.tsv", header = T,sep="\t")
 row.names(tax_18s) = tax_18s$Feature.ID
 tax_18s=tax_18s[,-1]
 tax.clean = separate(tax_18s, Taxon, into = c("Domain", "Phylum", "Class", "Order", "Family", "Genus", "Species"), sep=";")
@@ -70,7 +70,7 @@ tax.clean = tax.clean[,-which(names(tax.clean) %in% c("Confidence"))]
 otu_uf_18s = otu_table(OTUs_18S, taxa_are_rows=F)
 tax_uf_18s = tax_table(as.matrix(tax.clean))
 
-metadata_18s = read.table("/Users/mas4037/Dropbox (Mason Lab)/Hillier/qiime_18S_1391f_EukBr/metadata.txt", header=TRUE,  sep="\t", dec = ".") #Sample names MUST be the same in both files, otherwise is going not going to pair data 
+metadata_18s = read.table("qiime_18S_1391f_EukBr/metadata.txt", header=TRUE,  sep="\t", dec = ".") #Sample names MUST be the same in both files, otherwise is going not going to pair data 
 rownames(metadata_18s) <- metadata_18s[,1] 
 meta_18s<-sample_data(metadata_18s)
 
@@ -80,11 +80,11 @@ hillier_phylo_18S= subset_samples(hillier_phylo_18S, Collection !="cntl")
 
 #wgs data
 
-DSF3=read.table("/Users/mas4037/Dropbox (Mason Lab)/Hillier/DS-F3_bracken_species_v2.kreport.parsed.out", header = T,sep="\t",stringsAsFactors = F, fill = T) #Biom table from qiime2 needs to be open on a text editor because it contains an extra first row
+DSF3=read.table("DS-F3_bracken_species_v2.kreport.parsed.out", header = T,sep="\t",stringsAsFactors = F, fill = T) #Biom table from qiime2 needs to be open on a text editor because it contains an extra first row
 DSF3_domain=DSF3[DSF3$rank=="D",]
 DSF3_domain$Type= "Sed"
 
-FWF3=read.table("/Users/mas4037/Dropbox (Mason Lab)/Hillier/FW-F3_bracken_species_v2.kreport.parsed.out", header = T,sep="\t",stringsAsFactors = F, fill = T) #Biom table from qiime2 needs to be open on a text editor because it contains an extra first row
+FWF3=read.table("FW-F3_bracken_species_v2.kreport.parsed.out", header = T,sep="\t",stringsAsFactors = F, fill = T) #Biom table from qiime2 needs to be open on a text editor because it contains an extra first row
 FWF3_domain=FWF3[FWF3$rank=="D",]
 FWF3_domain$Type= "Water"
 
@@ -473,7 +473,7 @@ Extremophile tree
 
 ``` r
 #Get extremophile data from TMD and Halospecies 
-tmd_data_v24=read.table("/Users/mas4037/Dropbox (Mason Lab)/Hillier/tmd_data_v24.txt")
+tmd_data_v24=read.table("tmd_data_v24.txt")
 tmd_xmp=tmd_data_v24[grepl('Yes', tmd_data_v24$extremophile),]#tmd_data_v24 from TMD curation data
 halo_microbes=read.csv("/Users/mas4037/Dropbox (Mason Lab)/Microbe Directory 2.0/Halospecies_copy.csv", na.strings = F)
 
@@ -558,7 +558,7 @@ tree_group <- groupOTU(xm_tree, groups) #Merge clade groups with tree
 color_heat=names(xm_type_sum)
 
 #add pigment producing heatmap
-pigment=read.csv("/Users/mas4037/Dropbox (Mason Lab)/Hillier/hillier_ex_taxa_pigment.csv", header = T,na.strings = F, row.names = 'Species')
+pigment=read.csv("hillier_ex_taxa_pigment.csv", header = T,na.strings = F, row.names = 'Species')
 xm_type_sum_pigment=transform(merge(xm_type_sum,pigment,by=0,all=TRUE), row.names=Row.names, Row.names=NULL)
 
 xp_tree_plot=ggtree(tree_group,aes(color=group),layout = "fan",open.angle = 18, size=0.2, branch.length = "none") + #%<+% df_xmp
@@ -586,7 +586,7 @@ Bacteria Rhodospirillaceae
 family
 
 ``` r
-psb=readLines("/Users/mas4037/Dropbox (Mason Lab)/Hillier/Chromatiales.txt")
+psb=readLines("Chromatiales.txt")
 species_data$Species= sub("_", " ", species_data$Species)
 species_data$Species=str_trim(species_data$Species)
 purple_bac=species_data[species_data$Species %in% psb,]
@@ -602,7 +602,7 @@ ggplot(purple_bac, aes(x=Species, y=Abundance, fill=Type)) +
 
 ``` r
 #Plot purple non-sulfur bacteria (Belong to Rhodospirillaceae family)
-nonpsb=readLines("/Users/mas4037/Dropbox (Mason Lab)/Hillier/Rhodospirillaceae.txt")
+nonpsb=readLines("Rhodospirillaceae.txt")
 non_purple_bac=species_data[species_data$Species %in% nonpsb,]
 non_purple_bac$Abundance=as.numeric(non_purple_bac$Abundance)
 
@@ -620,7 +620,7 @@ Frequency of pathways by
 taxa
 
 ``` r
-path=read.csv("/Users/mas4037/Dropbox (Mason Lab)/Hillier/Pathway_by_sp.csv")
+path=read.csv("Pathway_by_sp.csv")
 path_clean = path[!(path$Species== ""), ]
 path_clean=dplyr::select(path_clean, Pathway, Species, Count, Sample)
 path_clean$Pathway=as.factor(path_clean$Pathway)
@@ -886,7 +886,7 @@ Culture isolates Maximum Likelihood
 tree
 
 ``` r
-ml_tree=read.tree("/Users/mas4037/Dropbox (Mason Lab)/Hillier/ML_Hillier_isolates.txt") #Import ML tree IQ-tree
+ml_tree=read.tree("ML_Hillier_isolates.txt") #Import ML tree IQ-tree
 ml_tree$tip.label<-gsub("_"," ",ml_tree$tip.label)
 ggtree(ml_tree, size=0.1, branch.length = "none")+ geom_tiplab(size=1.8, font="bold", linesize = 0.1, offset = 0.1, color="gray20") + 
   geom_nodelab(size=1.8, color="gray30")+ geom_treescale()+ xlim(NA,40)
