@@ -1,6 +1,6 @@
 
 import os
-os.chdir("/Users/mas4037/Dropbox (Mason Lab)/Hillier")
+os.chdir("path/to/dir")
 
 from ete3 import NCBITaxa
 ncbi = NCBITaxa() #download taxa from ncbi
