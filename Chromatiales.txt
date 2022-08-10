@@ -1,0 +1,1466 @@
+Rheinheimera sp. YR1
+Rheinheimera sp. UJ51
+Thiocapsa sp. WGA-1-9
+Thiocapsa sp. WGA-11-10
+Thiocapsa sp. WGA-12-4
+Thiocapsa sp. WGA-12-6
+Thiocapsa sp. WGA-12-16
+Candidatus Thiosymbion ectosymbiont of Robbea hypermnestra
+Aquichromatium
+Aquichromatiaceae
+Rheinheimera sp. SM2107
+Thiocapsa sp. LSW
+Granulosicoccaceae bacterium
+Guyparkeria sp. LH_S38
+Caldichromatium
+Acidihalobacter yilgarnenesis
+Rheinheimera sp. GL-15-2-5
+Rheinheimera sp. GL-53
+Rheinheimera sp. MA-13
+uncultured Candidatus Nitrosoglobus sp.
+environmental samples
+Candidatus Nitrosacidococcus
+Thiohalobacter sp. COW1
+Rheinheimera sp. MA13
+Acidihalobacter aeolianus
+Thiodictyon endosymbiont of Pseudoblepharisma tenue
+Rheinheimera sp. NAH3
+uncultured Thiosocius sp.
+environmental samples
+Thiosocius
+Wenzhouxiangella sp. AB-CW3
+Candidatus Thiosymbion sp.
+Rheinheimera sediminis
+Aquisalimonas sp. 2447
+Rheinheimera lutimaris
+Ectothiorhodospiraceae bacterium 2226
+Wenzhouxiangella sp. XN79A
+Thioalkalivibrio sp. XN279
+Wenzhouxiangella sp. XN24
+Thioalkalivibrio sp. XN8
+Wenzhouxiangella sp. XN201
+Wenzhouxiangella sp. C33
+Rheinheimera pleomorphica
+Caldichromatium japonicum
+Candidatus Thiosymbion ectosymbiont of Catanema sp. Cochon2018
+unclassified Ectothiorhodospira
+uncultured Thiolamprovum sp.
+environmental samples
+Candidatus Thiosymbion ectosymbiont of Stilbonematinae gen. sp. 2 MW-2019
+Candidatus Thiosymbion ectosymbiont of Stilbonematinae gen. sp. 1 MW-2019
+Candidatus Thiosymbion ectosymbiont of Stilbonematinae gen. sp. 'oahu 1'
+Candidatus Thiosymbion ectosymbiont of Stilbonematinae gen. sp. 'heron 1'
+Candidatus Thiosymbion ectosymbiont of Catanema sp. 'crete 1'
+Arhodomonas sp. KWT
+unclassified Thiobaca
+unclassified Halofilum
+unclassified Lamprocystis (in: Bacteria)
+Thioalbus sp.
+unclassified Thioalbus
+Wenzhouxiangella salilacus
+Spiribacter sp. 2438
+Spiribacter sp. C176
+Chromatiales bacterium JGI_KA33_G08_052
+Chromatiales bacterium JGI_KA33_F01_005
+unclassified Thiococcus
+unclassified Aquisalimonas
+unclassified Acidihalobacter
+unclassified Candidatus Thiosymbion
+unclassified Allochromatium
+unclassified Thiocapsa
+unclassified Thiorhodospira
+unclassified Pararheinheimera
+unclassified Thiogranum
+unclassified Thioalkalispira
+unclassified Halothiobacillus
+unclassified Chromatium
+unclassified Arsukibacterium
+unclassified Nitrosococcus
+unclassified Halochromatium
+unclassified Halopeptonella
+unclassified Thiohalobacter
+unclassified Thioprofundum
+unclassified Spiribacter
+unclassified Thiodictyon
+unclassified Alkalispirillum
+unclassified Candidatus Tenderia
+unclassified Thiophaeococcus
+unclassified Thiorhodovibrio
+unclassified Woeseia
+unclassified Halorhodospira
+unclassified Guyparkeria
+unclassified Thiohalocapsa
+unclassified Thiocystis
+unclassified Sulfuriflexus
+unclassified Thiorhodococcus
+unclassified Arhodomonas
+unclassified Phaeochromatium
+unclassified Thioalkalivibrio
+unclassified Marichromatium
+unclassified Granulosicoccus
+Oceanococcus sp. SW3159
+unclassified Oceanococcus
+Alkalilimnicola sp. S0819
+unclassified Alkalilimnicola
+Wenzhouxiangella sp. W260
+unclassified Wenzhouxiangella
+Candidatus Macondimonas
+Arhodomonas sp. S01
+unclassified Chromatiales
+Halothiobacillus sp. SB14A
+Marichromatium sp. Dg9-2
+Rheinheimera sp. D18
+Rheinheimera sp. YQF-1
+Rheinheimera sp. LHK132
+Thiohalocapsa sp.
+Thiocystis sp.
+Marichromatium sp. AB32
+Marichromatium sp. AB31
+Wenzhouxiangellaceae bacterium
+unclassified Wenzhouxiangellaceae
+Guyparkeria sp. SCN-R1
+Candidatus Macondimonas diazotrophica
+Wenzhouxiangella sp. 15190
+Wenzhouxiangella sp. 15181
+Halothiobacillaceae bacterium
+Candidatus Tenderia sp.
+Marichromatium sp.
+Spiribacter sp. E85
+Halorhodospira sp.
+Thioalkalivibrio sp.
+Candidatus Porisulfidus
+Pararheinheimera sp.
+Pararheinheimera
+Chromatiaceae bacterium
+Halochromatium sp.
+Thioprofundum sp.
+Guyparkeria sp.
+Guyparkeria
+Thioalkalibacteraceae
+Thioprofundaceae
+Sulfurivermis
+Woeseiaceae bacterium
+unclassified Woeseiaceae
+Ectothiorhodospiraceae bacterium
+Chromatiales bacterium
+Thiohalobacter sp.
+Natronospira
+Thiocapsa sp.
+Thiogranum sp.
+Imhoffiella
+Sulfuriflexus sp.
+Candidatus Thiosymbion sp. Type A ELBA JGI 028
+Candidatus Thiosymbion sp. Type A ELBA JGI 027
+Candidatus Thiosymbion sp. Type A ELBA JGI 026
+Candidatus Thiosymbion sp. Type A ELBA JGI 025
+Candidatus Thiosymbion sp. Type A ELBA JGI 024
+Candidatus Thiosymbion sp. Type A ELBA JGI 023
+Candidatus Thiosymbion sp. Type A ELBA JGI 022
+Candidatus Thiosymbion sp. Type A ELBA JGI 021
+Candidatus Thiosymbion sp. Type A ELBA JGI 020
+Candidatus Thiosymbion sp. Type A ELBA JGI 019
+Candidatus Thiosymbion sp. Type A ELBA JGI 018
+Candidatus Thiosymbion sp. Type A ELBA JGI 017
+Candidatus Thiosymbion sp. Type A ELBA JGI 016
+Candidatus Thiosymbion sp. Type A ELBA JGI 015
+Candidatus Thiosymbion sp. Type A ELBA JGI 014
+Candidatus Thiosymbion sp. Type A ELBA JGI 013
+Candidatus Thiosymbion sp. Type A ELBA JGI 012
+Candidatus Thiosymbion sp. Type A ELBA JGI 011
+Candidatus Thiosymbion sp. Type A ELBA JGI 010
+Candidatus Thiosymbion sp. Type A ELBA JGI 009
+Candidatus Thiosymbion sp. Type A ELBA JGI 008
+Candidatus Thiosymbion sp. Type A ELBA JGI 007
+Candidatus Thiosymbion sp. Type A ELBA JGI 006
+Candidatus Thiosymbion sp. Type A ELBA JGI 005
+Candidatus Thiosymbion sp. Type A ELBA JGI 004
+Candidatus Thiosymbion sp. Type A ELBA JGI 003
+Candidatus Thiosymbion sp. Type A ELBA JGI 002
+Candidatus Thiosymbion sp. Type A ELBA JGI 001
+Rheinheimera sp. AK109
+Endothiovibrio
+Rheinheimera sp. NCCP-1794
+Rheinheimera sp. NCCP-1736
+Spiribacter sp. SP10B
+Spiribacter sp. AK102
+Aquisalimonas sp. AK101
+Alkalilimnicola sp. AK92
+uncultured Woeseiaceae bacterium
+environmental samples
+uncultured Wenzhouxiangellaceae bacterium
+environmental samples
+Woeseia sp.
+Candidatus Nitrosoglobus
+Wenzhouxiangella sp.
+Chromatiaceae bacterium 2141T.STBD.0c.01a
+Arsukibacterium sp.
+Thiosocius teredinicola
+Sulfurivermis fontis
+Chromatiales bacterium 21-64-14
+Halothiobacillus sp. 39-53-45
+Halothiobacillus sp. 35-54-62
+Halothiobacillus sp. 28-55-5
+Halothiobacillus sp. 24-54-40
+Halothiobacillus sp. 20-54-6
+Halothiobacillus sp. 20-53-49
+Halothiobacillus sp. 15-55-196
+Halothiobacillus sp. 14-56-357
+Halothiobacillus sp. 14-55-98
+Halothiobacillus sp. 13-55-253
+Halothiobacillus sp. 13-55-115
+Marichromatium sp. JA973
+Allochromatium sp. JA971
+Marichromatium sp. JA970
+Marichromatium sp. JA965
+Halopeptonella sp.
+Oceanococcus sp.
+Halothiobacillaceae bacterium UBA5861
+Halothiobacillaceae bacterium UBA5337
+Halothiobacillaceae bacterium UBA3459
+Thiocapsa sp. UBA6158
+Rheinheimera sp. UBA4099
+Arsukibacterium sp. UBA5043
+Arsukibacterium sp. UBA4212
+Arsukibacterium sp. UBA4203
+Arsukibacterium sp. UBA3189
+Arsukibacterium sp. UBA3155
+Granulosicoccus sp.
+uncultured Thiophaeococcus sp.
+environmental samples
+uncultured Rhabdochromatium sp.
+Spiribacter aquaticus
+Chromatiales bacterium USCg_Taylor
+Spiribacter sp.
+Halofilum sp.
+Halofilum
+Candidatus Porisulfidus sp. TsSOB
+Chromatiales bacterium SS5
+Ectothiorhodospiraceae bacterium WFHF3C12
+Rheinheimera coerulea
+Candidatus Thiosymbion sp. PIANOSA 0005B
+Candidatus Thiosymbion sp. PIANOSA 0004B
+Candidatus Thiosymbion sp. PIANOSA 0003B
+Candidatus Thiosymbion sp. PIANOSA 0002B
+Candidatus Thiosymbion sp. PIANOSA 0001B
+Candidatus Thiosymbion sp. PIANOSA 0004
+Candidatus Thiosymbion sp. PIANOSA 0003
+Candidatus Thiosymbion sp. PIANOSA 0002
+Candidatus Thiosymbion sp. PIANOSA 0001
+Candidatus Thiosymbion sp. Type G ELBA 0004
+Candidatus Thiosymbion sp. Type G ELBA 0003
+Candidatus Thiosymbion sp. Type G ELBA 0002
+Candidatus Thiosymbion sp. Type G ELBA 0001
+Candidatus Thiosymbion sp. HERON_ISLAND 0005
+Candidatus Thiosymbion sp. HERON_ISLAND 0004
+Candidatus Thiosymbion sp. HERON_ISLAND 0003
+Candidatus Thiosymbion sp. HERON_ISLAND 0002
+Candidatus Thiosymbion sp. HERON_ISLAND 0001
+Candidatus Thiosymbion sp. of Stilbonema sp. ELBA 0005
+Candidatus Thiosymbion sp. of Stilbonema sp. ELBA 0004
+Candidatus Thiosymbion sp. of Stilbonema sp. ELBA 0003
+Candidatus Thiosymbion sp. of Stilbonema sp. ELBA 0002
+Candidatus Thiosymbion sp. of Stilbonema sp. ELBA 0001
+Candidatus Thiosymbion
+Halothiobacillus sp.
+Ectothiorhodospira sp.
+Arhodomonas sp.
+Aquisalimonas sp.
+Allochromatium sp.
+Alkalispirillum sp.
+Alkalilimnicola sp.
+Acidihalobacter sp.
+Rheinheimera sp.
+Chromatiales bacterium (ex Bugula neritina AB1)
+Rheinheimera sp. AO2_29
+Spiribacter sp. SSL99
+Halothiobacillus sp. LS2
+uncultured Sulfuriflexus sp.
+environmental samples
+Sulfuriflexus
+Granulosicoccus sp. KC64
+Thiorhodococcus sp. JAP 878
+Thiocapsa sp. JA 884
+Spiribacter roseus
+Rheinheimera sp. MMRF1043
+Rheinheimera sp. MMRF1039
+Ectothiorhodospiraceae bacterium BBD 1991-15
+uncultured Thiodictyon sp.
+environmental samples
+Arhodomonas sp. ADMK85
+Aquichromatium aeriopus
+Rheinheimera riviphila
+Phaeobacterium
+Rheinheimera sp. K18
+Rheinheimera sp. SA_1
+Nitrosococcus wardiae
+Candidatus Tenderia
+Arhodomonas sp. ADMK59
+Arhodomonas sp. ADMK56
+Arhodomonas sp. ADMK24
+Sulfuriflexus mobilis
+Natronospira proteinivora
+Rheinheimera sp. QHL08
+Chromatiales bacterium RIFOXYA1_FULL_46_5
+Wenzhouxiangella sediminis
+Halothiobacillus sp. WRN-7
+Rheinheimera sp. LU2A
+Rheinheimera sp. LU1
+Halothiobacillus sp. ASW28SB9AB
+Halothiobacillus sp. ASW28SB9AA
+Halothiobacillus sp. ASW28SB9A
+Halothiobacillus sp. ASW28SB04
+Halothiobacillus sp. ASW28SB1A
+Halothiobacillus sp. ASW28SB14A
+Rheinheimera marina
+Rheinheimera sp. K2DN331
+Halothiobacillus sp. XI15
+Rheinheimera sp. ASW-15
+Acidihalobacter ferrooxydans
+uncultured Acidihalobacter sp.
+environmental samples
+Acidihalobacter
+Rheinheimera sp. F8
+Thioalkalivibrio sp. CSO8
+Halothiobacillus sp. CSO5
+Inmirania
+Rheinheimera sp. TH215
+Rheinheimera sp. TH214
+Rheinheimera sp. TH213
+Rheinheimera sp. TH212
+Rheinheimera sp. TH211
+Rheinheimera sp. TH210
+Rheinheimera sp. ABKVT
+Marichromatium sp. NT-1
+Thiorhodococcus alkaliphilus
+Marichromatium sp. MT-1
+Rheinheimera sp. B18Va
+Inmirania thermothiophila
+Candidatus Tenderia electrophaga
+Rheinheimera sp. NT-1
+Marichromatium sp. S2.2
+Halopeptonella
+uncultured Woeseia sp.
+environmental samples
+Woeseia
+Woeseiaceae
+Rheinheimera sp. CANegra
+Spiribacter sp. 2W06
+Rheinheimera sp. Tn6
+Rheinheimera sp. Tn16
+Ectothiorhodospiraceae bacterium AqS1
+Granulosicoccus sp. Asnod6B5
+Granulosicoccus sp. Asnod3G05
+Granulosicoccus sp. Asnod1F03
+Ectothiorhodospira sp. enrichment culture
+Ectothiorhodospira sp. SL5
+Marichromatium sp. SL2
+Marichromatium sp. YS31(3)
+Marichromatium sp. YS22(2)
+Phaeochromatium sp. YS12
+Phaeochromatium sp. CB25(2)
+Phaeochromatium sp. CB25
+Phaeochromatium sp. CB23(2)
+Marichromatium sp. CB23(1)
+Thiorhodococcus sp. CB21
+Marichromatium sp. CB20
+Thiorhodococcus sp. CB18
+Marichromatium sp. CB9
+Marichromatium sp. CB5
+Marichromatium sp. CB1
+Marichromatium sp. NG2B
+Marichromatium sp. NG2A
+Marichromatium sp. NG3SB
+Marichromatium sp. MB8S
+Marichromatium sp. MB8
+Marichromatium sp. MB7
+Marichromatium sp. MB6
+Marichromatium sp. NG3S
+Marichromatium sp. MB17SA
+Marichromatium sp. MB2S
+Allochromatium sp. MB2A
+Marichromatium sp. MB10SB
+Marichromatium sp. MB3S
+Marichromatium sp. SE31
+Marichromatium sp. SE29
+Marichromatium sp. SE25
+Marichromatium sp. SE24
+Marichromatium sp. SE23(2)
+Marichromatium sp. SE19
+Marichromatium sp. SE3
+Rheinheimera sp. MBTDCMFRIMab08
+Rheinheimera sp. EpRS3
+Rheinheimera sp. BAL341
+Rheinheimera sp. BAL336
+Rheinheimera sp. BAL335
+Rheinheimera sp. BAL331
+Rheinheimera sp. LB10-G-62-28-S-W
+Rheinheimera sp. LB10-G-58-28-S-D
+Rheinheimera sp. LB10-G-34-28-S-W
+Rheinheimera sp. LB10-G-11-28-S-W
+Allochromatium sp. JA 452
+uncultured Spiribacter sp.
+environmental samples
+Aquisalimonas sp. 74E
+uncultured Thiohalobacter sp.
+environmental samples
+Marichromatium sp. Nu25
+Marichromatium sp. Nu19
+Marichromatium sp. Nu11
+Marichromatium sp. Nu9
+Marichromatium sp. Nu8
+Marichromatium sp. Nu7
+Marichromatium sp. Nu4
+Phaeochromatium sp. Nu2
+Rheinheimera sp. SLG310A2-32-1
+Rheinheimera sp. KUFOS-C9
+Rheinheimera sp. KUFOS-C11
+uncultured Wenzhouxiangella sp.
+environmental samples
+Wenzhouxiangella
+Wenzhouxiangellaceae
+Ectothiorhodospira sp. JA849
+Ectothiorhodospira sp. JA848
+Marichromatium sp. 1
+Thiopedia rosea
+Thiospirillum jenense
+Rheinheimera sp. KL1
+Rheinheimera sp. MIH20
+Rheinheimera sp. JXH-345
+Rheinheimera sp. JXH-344
+Rheinheimera sp. JXH-330
+Rheinheimera sp. JXH-329
+Rheinheimera sp. JXH-291
+Rheinheimera sp. JXH-277
+Rheinheimera sp. JXH-227
+Rheinheimera sp. JXH-215
+Rheinheimera sp. JXH-212
+Arsukibacterium sp. MJ3
+Rheinheimera sp. 61DPR4
+Candidatus Nitrosoglobus terrae
+Rheinheimera salexigens
+uncultured Thioalbus sp.
+environmental samples
+uncultured Alkalispirillum sp.
+environmental samples
+Rheinheimera sp. H2-19
+Rheinheimera sp. H2-17
+Rheinheimera sp. H1-82
+uncultured Thiogranum sp.
+environmental samples
+Thiogranum
+Thioalkalispira sp. HDS22
+Marichromatium sp. JA923
+Marichromatium sp. JA921
+Halofilum ochraceum
+Halothiobacillus sp. SS13102
+Halothiobacillus sp. enrichment culture
+Ectothiorhodospira sp. BK60
+Thiocapsa sp. KG48
+Thioalkalivibrio sp. BB57
+Marichromatium sp. MV65
+Rheinheimera aestuarii
+Rheinheimera gaetbuli
+Marichromatium sp. JA909
+Wenzhouxiangella marina
+Granulosicoccaceae bacterium UGC1-7
+unclassified Granulosicoccaceae
+Chromatiales bacterium OvacGamma1
+Chromatiales bacterium OloisGamma1
+Chromatiales bacterium OgenicGamma1
+Chromatiales bacterium OcrassGamma1
+Granulosicoccus sp. CPCC100545
+Marichromatium sp. JA844
+Marichromatium sp. JA843
+Marichromatium sp. JA842
+Marichromatium sp. JA841
+Marichromatium sp. JA840
+Marichromatium sp. JA839
+Marichromatium sp. JA838
+Marichromatium sp. JA837
+Marichromatium sp. JA836
+Marichromatium sp. JA835
+Marichromatium sp. JA834
+Rheinheimera sp. AE24
+Marichromatium sp. JA823
+Marichromatium sp. JA822
+Allochromatium sp. JA821
+Marichromatium sp. JA817
+Rheinheimera sp. NDS_5-1
+Halothiobacillus sp. EPR155
+Halothiobacillus sp. EPR129
+Thiocapsa sp. WGA12-16
+Thiocapsa sp. WGA12-6
+Thiocapsa sp. WGA12-4
+Thiocapsa sp. WGA11-10
+Thiocapsa sp. WGA9-15
+Thiocapsa sp. WGA1-9
+Oceanococcus
+Rheinheimera japonica
+Woeseia oceani
+Pararheinheimera mesophila
+Rheinheimera sp. KOK32
+Thiogranum longum
+Rheinheimera sp. 2A9
+Rheinheimera sp. 2A4
+Rheinheimera sp. 2A3
+Granulosicoccus undariae
+Pararheinheimera arenilitoris
+Ectothiorhodospira sp. enrichment culture clone TB2-259_G12
+Ectothiorhodospira sp. enrichment culture clone TB2-259_F11
+Ectothiorhodospira sp. enrichment culture clone TB2-259_F10
+Ectothiorhodospira sp. enrichment culture clone TB2-259_E10
+Ectothiorhodospira sp. enrichment culture clone TB2-259_D11
+Ectothiorhodospira sp. enrichment culture clone TB2-259_C12
+Ectothiorhodospira sp. enrichment culture clone TB2-259_B11
+Ectothiorhodospira sp. enrichment culture clone TB2-259_A12
+Ectothiorhodospira sp. enrichment culture clone TB2-259_A10
+Ectothiorhodospira sp. enrichment culture clone EC8_H7
+Ectothiorhodospira sp. enrichment culture clone EC8_G8
+Ectothiorhodospira sp. enrichment culture clone EC8_F9
+Ectothiorhodospira sp. enrichment culture clone EC8_F7
+Ectothiorhodospira sp. enrichment culture clone EC8_E8
+Ectothiorhodospira sp. enrichment culture clone EC8_D7
+Ectothiorhodospira sp. enrichment culture clone EC8_B9
+Ectothiorhodospira sp. enrichment culture clone EC8_B7
+Ectothiorhodospira sp. enrichment culture clone EC8_A8
+Ectothiorhodospira sp. enrichment culture clone EC8-10-3_H4
+Ectothiorhodospira sp. enrichment culture clone EC8-10-3_G6
+Ectothiorhodospira sp. enrichment culture clone EC8-10-3_F8
+Ectothiorhodospira sp. enrichment culture clone EC8-10-3_F6
+Ectothiorhodospira sp. enrichment culture clone EC8-10-3_F4
+Ectothiorhodospira sp. enrichment culture clone EC8-10-3_D9
+Ectothiorhodospira sp. enrichment culture clone EC8-10-3_D4
+Ectothiorhodospira sp. enrichment culture clone EC8-10-3_C8
+Ectothiorhodospira sp. enrichment culture clone EC8-10-3_C4
+Ectothiorhodospira sp. enrichment culture clone EC8-10-3_B4
+Ectothiorhodospira sp. enrichment culture clone EC8-10-3_A4
+Ectothiorhodospira sp. enrichment culture clone EC8-10-2_H10
+Ectothiorhodospira sp. enrichment culture clone EC8-10-2_G7
+Ectothiorhodospira sp. enrichment culture clone EC8-10-2_G12
+Ectothiorhodospira sp. enrichment culture clone EC8-10-2_G10
+Ectothiorhodospira sp. enrichment culture clone EC8-10-2_F7
+Ectothiorhodospira sp. enrichment culture clone EC8-10-2_F2
+Ectothiorhodospira sp. enrichment culture clone EC8-10-2_F12
+Ectothiorhodospira sp. enrichment culture clone EC8-10-2_E7
+Ectothiorhodospira sp. enrichment culture clone EC8-10-2_E12
+Ectothiorhodospira sp. enrichment culture clone EC8-10-2_E10
+Ectothiorhodospira sp. enrichment culture clone EC8-10-2_C7
+Ectothiorhodospira sp. enrichment culture clone EC8-10-2_C2
+Ectothiorhodospira sp. enrichment culture clone EC8-10-2_C12
+Ectothiorhodospira sp. enrichment culture clone EC8-10-2_C10
+Ectothiorhodospira sp. enrichment culture clone EC8-10-2_B7
+Ectothiorhodospira sp. enrichment culture clone EC8-10-2_B2
+Ectothiorhodospira sp. enrichment culture clone EC8-10-2_B12
+Ectothiorhodospira sp. enrichment culture clone EC8-10-2_A7
+Ectothiorhodospira sp. enrichment culture clone EC8-10-2_A10
+Ectothiorhodospira sp. enrichment culture clone EC8-10-1_H11
+Ectothiorhodospira sp. enrichment culture clone EC8-10-1_H1
+Ectothiorhodospira sp. enrichment culture clone EC8-10-1_G9
+Ectothiorhodospira sp. enrichment culture clone EC8-10-1_G1
+Ectothiorhodospira sp. enrichment culture clone EC8-10-1_F1
+Ectothiorhodospira sp. enrichment culture clone EC8-10-1_E9
+Ectothiorhodospira sp. enrichment culture clone EC8-10-1_E3
+Ectothiorhodospira sp. enrichment culture clone EC8-10-1_E11
+Ectothiorhodospira sp. enrichment culture clone EC8-10-1_E1
+Ectothiorhodospira sp. enrichment culture clone EC8-10-1_D1
+Ectothiorhodospira sp. enrichment culture clone EC8-10-1_C1
+Ectothiorhodospira sp. enrichment culture clone EC8-10-1_B3
+Ectothiorhodospira sp. enrichment culture clone EC8-10-1_B11
+Ectothiorhodospira sp. enrichment culture clone EC8-10-1_A9
+Ectothiorhodospira sp. enrichment culture clone EC8-10-1_A3
+Ectothiorhodospira sp. enrichment culture clone EC8-10-1_A1
+Ectothiorhodospira sp. enrichment culture clone EC2_G1
+Ectothiorhodospira sp. enrichment culture clone EC2_F2
+Ectothiorhodospira sp. enrichment culture clone EC2_F1
+Ectothiorhodospira sp. enrichment culture clone EC2_E1
+Ectothiorhodospira sp. enrichment culture clone EC2_D2
+Ectothiorhodospira sp. enrichment culture clone EC2_C2
+Ectothiorhodospira sp. enrichment culture clone EC2_C1
+Ectothiorhodospira sp. enrichment culture clone EC2_B2
+Ectothiorhodospira sp. enrichment culture clone EC2_A1
+Ectothiorhodospira sp. enrichment culture clone EC13_H5
+Ectothiorhodospira sp. enrichment culture clone EC13_G5
+Ectothiorhodospira sp. enrichment culture clone EC13_E6
+Ectothiorhodospira sp. enrichment culture clone EC13_E5
+Ectothiorhodospira sp. enrichment culture clone EC13_D6
+Ectothiorhodospira sp. enrichment culture clone EC13_C5
+Ectothiorhodospira sp. enrichment culture clone EC13_B6
+Ectothiorhodospira sp. enrichment culture clone EC12_H3
+Ectothiorhodospira sp. enrichment culture clone EC12_G4
+Ectothiorhodospira sp. enrichment culture clone EC12_F3
+Ectothiorhodospira sp. enrichment culture clone EC12_D3
+Ectothiorhodospira sp. enrichment culture clone EC12_C4
+Ectothiorhodospira sp. enrichment culture clone EC12_B3
+Ectothiorhodospira sp. enrichment culture clone EC12_A4
+Thiocapsa sp. 'Lake Shunet Wu2014'
+Thioalbus
+Rheinheimera sp. EP_S_30
+Rheinheimera sp. EP_S_3
+Rheinheimera sp. EA_S_70
+Rheinheimera sp. EA_S_67
+Rheinheimera sp. EA_S_38
+Rheinheimera sp. LS-001
+Thioalkalivibrio sp. JGI ETNP_300m_187_D12
+Thioalkalivibrio sp. JGI ETNP_125m_186_D04
+uncultured Arhodomonas sp.
+Arhodomonas sp. SA6
+Arhodomonas sp. SA1
+Rheinheimera sp. 1-CSUMB
+Thioalkalivibrio sp. HK1
+Rheinheimera sp. THG-LS118
+Halothiobacillus sp. IC_S22
+uncultured Lamprobacter sp.
+environmental samples
+Thioalkalivibrio sp. HL7711_P3F6/JGI 000155CP-M11
+Thioalkalivibrio sp. HL7711_P3F6/JGI 000155CP-H15
+Thioalkalivibrio sp. HL7711_P3F6/JGI 000155CP-E08
+Thioalkalivibrio sp. HL7711_P3F6/JGI 000155CP-C18
+Thioalkalivibrio sp. HL7711_P3F6/JGI 000151CP-G10
+Rheinheimera sp. W-130-25
+Rheinheimera sp. W-130-23
+Ectothiorhodospira sp. BSL-9
+Arhodomonas sp. HCh2
+uncultured Chromatiaceae bacterium ML_Gamma
+Chromatium okenii LC
+Thiohalocapsa sp. ML1
+Halothiobacillus sp. JAF2
+Rheinheimera sp. A1aC-3
+Rheinheimera sp. A1a-7
+Rheinheimera sp. A1a-3
+Rheinheimera sp. AZTITEMP174
+Thiorhodococcus sp. AK59
+Granulosicoccus marinus
+Rheinheimera sp. IW-258
+Rheinheimera sp. IW-212
+Rheinheimera sp. IW-201
+Ectothiorhodospira marina
+Nitrococcus sp. enrichment culture isolate DGGE gel band EN2
+Nitrococcus sp. enrichment culture isolate DGGE gel band 1
+Thiohalocapsa sp. PB-PSB1
+Rheinheimera sp. MI-29
+Marichromatium sp. JA818
+Rheinheimera sp. J5.2A4
+Rheinheimera sp. J4.1B7
+Rheinheimera sp. J4.1B6
+Rheinheimera sp. BAS127i
+Rheinheimera sp. CLRI6
+Halorhodospira halochloris str. A
+Granulosicoccus sp. FI 3-9
+Rheinheimera sp. H-17
+Rheinheimera sp. JC206
+Allochromatium sp. PN1
+Allochromatium sp. P7
+uncultured Natronocella sp.
+environmental samples
+Spiribacter curvatus
+Spiribacter salinus
+Spiribacter
+Rheinheimera sp. HPCAQSB14
+Phaeobacterium nitratireducens
+Phaeochromatium
+Aquisalimonas lutea
+Halothiobacillaceae bacterium SCGC AC-197-I22
+Halothiobacillaceae bacterium SCGC AC-197-F23
+Halothiobacillaceae bacterium SCGC AB-674-J03
+Halothiobacillaceae bacterium SCGC AB-674-E09
+Halothiobacillaceae bacterium SCGC AB-674-E03
+unclassified Halothiobacillaceae
+Rheinheimera tuosuensis
+Oceanococcus atlanticus
+Rheinheimera sp. D8
+Thiorhodococcus sp. TrccPS10
+Thiorhodococcus sp. TcyfPS10
+Thiocapsa sp. TcyrPS10
+Thiocapsa sp. TcaPS10
+Thiocapsa sp. AmPS10
+Halothiobacillus sp. SCN-R1
+Aquisalimonas halophila
+Rheinheimera sp. R083
+Rheinheimera sp. 16S-8
+Allochromatium sp. GSKRLMBKU-01
+Rheinheimera sp. SSA547
+Aquisalimonas sp. K3-11B
+Aquisalimonas sp. K25-9C
+Aquisalimonas sp. K12-7B
+Aquisalimonas sp. K12-25A
+Rheinheimera sp. J4
+Thioalkalivibrio thiocyanoxidans ARh2
+Rheinheimera sp. SS1.9
+Rheinheimera sp. SS1.8
+Rheinheimera sp. SS1.6
+Rheinheimera sp. SS1.5
+Rheinheimera sp. SS1.1
+Granulosicoccus sp. SS10.26
+Thiohalobacter
+Halothiobacillus sp. HL7
+Halothiobacillus sp. HL6
+Thioalkalivibrio sp. ALR17-21
+Rheinheimera sp. DS5
+Thioalkalivibrio sp. AKL19
+Thioalkalivibrio sp. HL-Eb18
+Thioalkalivibrio sp. ALMg9
+Thioalkalivibrio sp. ALRh
+Thioalkalivibrio sp. ARh6
+Thioalkalivibrio sp. ALE19
+Thioalkalivibrio sp. ALE6
+Thioalkalivibrio sp. ALMg2
+Thioalkalivibrio sp. ALJ19
+Thioalkalivibrio sp. ALE23
+Thioalkalivibrio sp. ALE11
+Rheinheimera sp. LAR05R6
+Marichromatium sp. JA794
+Thioalkalivibrio sp. ALJ2
+Spiribacter salinus M19-40
+Rheinheimera sp. TMB2-13
+Thioalkalivibrio nitratireducens DSM 14787
+Imhoffiella purpurea
+Nitrosococcus sp. Dl08
+uncultured Thioalkalispiraceae bacterium
+environmental samples
+Rheinheimera sp. LVo-amp_6-11
+Rheinheimera sp. BC2_TSA1A7
+Rheinheimera sp. Expt2_P8WS_H09
+Rheinheimera sp. Expt2_P14WB_H04
+Rheinheimera sp. Expt2_P14WB_G04
+Thioalkalivibrio sp. ALJ4
+Thioalkalivibrio sp. ALJ3
+Thioalkalivibrio sp. ALgr3
+Thioalkalivibrio sp. ALJ5
+Arhodomonas sp. Seminole
+Arhodomonas sp. Rozel
+uncultured Thiocystis sp.
+environmental samples
+Rheinheimera sp. UDC526
+Rheinheimera muenzenbergensis
+Rheinheimera hassiensis
+Ectothiorhodospiraceae bacterium LYG68
+Ectothiorhodospiraceae bacterium LYG2
+Ectothiorhodospiraceae bacterium LYG13
+Granulosicoccus antarcticus IMCC3135
+Rheinheimera sp. A10
+Rheinheimera sp. 400
+Rheinheimera sp. 347
+Rheinheimera sp. 325
+Rheinheimera sp. 309
+Rheinheimera sp. 262
+Rheinheimera sp. 239
+Rheinheimera sp. 238
+Rheinheimera sp. 235
+Rheinheimera sp. 208
+Rheinheimera sp. 193
+Rheinheimera sp. OVC29
+Candidatus Thiodictyon syntrophicum
+uncultured Ectothiorhodosinus sp.
+environmental samples
+Rheinheimera nanhaiensis
+Rheinheimera sp. DP_sed_246
+Thioalkalivibrio sp. ALJ22
+Thioalkalivibrio sp. ALJ21
+Thioalkalivibrio sp. ALJ20
+Thioalkalivibrio sp. ALJ16
+Thioalkalivibrio sp. ALJ12
+Thioalkalivibrio sp. ALJ11
+Thioalkalivibrio sp. ALJ10
+Thioalkalivibrio sp. ALJ9
+Thioalkalivibrio sp. ALJ8
+Thioalkalivibrio sp. ALJ7
+Thioalkalivibrio sp. ALM2T
+Thioalkalivibrio sp. ARh5
+Thioalkalivibrio sp. ALE31
+Thioalkalivibrio sp. ALE30
+Thioalkalivibrio sp. ALE29
+Thioalkalivibrio sp. ALE28
+Thioalkalivibrio sp. ALE27
+Thioalkalivibrio sp. ALE25
+Thioalkalivibrio sp. ALE22
+Thioalkalivibrio sp. ALE21
+Thioalkalivibrio sp. ALE18
+Thioalkalivibrio sp. ALE17
+Thioalkalivibrio sp. ALE16
+Thioalkalivibrio sp. ALE15
+Thioalkalivibrio sp. ALE12
+Thioalkalivibrio sp. ALE9
+Thioalkalivibrio sp. ALE14
+Thioalkalivibrio sp. ALMg13-2
+Thioalkalivibrio sp. ALMg12-1
+Thioalkalivibrio sp. ALMg11
+Thioalkalivibrio sp. ALMg6
+Thioalkalivibrio sp. ALMg3
+Thioalkalivibrio sp. ALgr5
+Thioalkalivibrio sp. HL17T
+Thioalkalivibrio sp. AKL17
+Thioalkalivibrio sp. AKL12
+Thioalkalivibrio sp. AKL10
+Thioalkalivibrio sp. AKL9
+Thioalkalivibrio sp. AKL8
+Thioalkalivibrio sp. AKL7
+Thioalkalivibrio sp. AKL6
+Thioalkalivibrio sp. AKL3
+Thioalkalivibrio sp. AL21
+Thioalkalivibrio sp. ARh4
+Thioalkalivibrio sp. ALD1
+Thioalkalivibrio sp. AL5
+Thioalkalivibrio sp. ARh3
+Thioalkalivibrio sp. ALJDT
+Thioalkalivibrio sp. ALJT
+Thioalkalivibrio sp. ALJ23
+Thioalkalivibrio sp. ALJ1
+Rheinheimera sp. ENNN3_I
+Chromatiales bacterium IleukGamma1
+Chromatiales bacterium OalgGamma1
+Chromatiales bacterium OilvGamma1
+Nitrosococcus sp. LT-3
+Thiohalospira halophila DSM 15071
+Thiofaba tepidiphila DSM 19618
+Pararheinheimera texasensis DSM 17496
+Rheinheimera perlucida DSM 18276
+Rheinheimera baltica DSM 14885
+Rheinheimera sp. L6
+Rheinheimera sp. L1
+Arhodomonas aquaeolei DSM 8974
+Thioalkalispiraceae
+Rheinheimera sp. REICA_251
+Rheinheimera sp. REICA_198
+Rheinheimera sp. REICA_165
+Rheinheimera sp. REICA_109
+Rheinheimera sp. REICA_085
+Rheinheimera sp. REICA_023
+Rheinheimera sp. J34a-5a
+Marichromatium sp. AQM2
+Rheinheimera sp. QGC-1
+Rheinheimera sp. Sand_R2A_G6
+uncultured Granulosicoccaceae bacterium
+environmental samples
+Ectothiorhodospira sp. JA741
+Lamprobacter modestohalophilus
+Lamprobacter
+Thiocapsa sp. 1R
+Rheinheimera sp. enrichment culture clone MS1-19
+uncultured Thioprofundum sp.
+environmental samples
+Thioalkalivibrio sulfidiphilus
+Rheinheimera sp. VI7(2011)
+Rheinheimera sp. Shira 15-11-03
+Rheinheimera sp. 03SU9
+Rheinheimera sp. AB402d
+Arhodomonas recens
+Ectothiorhodospiraceae bacterium BW-2
+Rheinheimera sp. AD-F6
+Rheinheimera sp. C3-4m
+Granulosicoccus sp. CMS377
+Rheinheimera sp. R13-30
+Rheinheimera sp. 2001P
+Rheinheimera sp. 2001M
+Rheinheimera sp. 2001L
+Rheinheimera sp. 1003A
+Rheinheimera sp. 1002F
+Rheinheimera sp. 1002C
+Rheinheimera sp. 1001P
+Rheinheimera sp. 1001I
+uncultured Granulosicoccus sp.
+environmental samples
+Rheinheimera sp. 2001H
+Rheinheimera sp. 1001B
+Endothiovibrio diazotrophicus
+Rheinheimera sp. T3(2010)
+Allochromatium sp. JA621
+Allochromatium sp. JA615
+uncultured Thioalkalispira sp.
+environmental samples
+uncultured Ectothiorhodospira sp.
+environmental samples
+uncultured Thiovirga sp.
+environmental samples
+Thioalkalivibrio versutus AL 2
+Rheinheimera sp. 121e(2010)
+Marichromatium sp. JA551
+Marichromatium sp. JA650
+Marichromatium sp. JA649
+Marichromatium sp. JA647
+Marichromatium sp. JA646
+Marichromatium sp. JA645
+Marichromatium sp. JA644
+Pararheinheimera tilapiae
+Rheinheimera sp. 09BSZB-9
+Ectothiorhodospira magna
+Marichromatium sp. AQM1
+Alkalispirillum sp. SV 5.18
+Alkalilimnicola sp. SV 12.18
+Allochromatium sp. JA549
+Allochromatium sp. JA543
+Thiohalocapsa sp. JA534
+Thiophaeococcus sp. JA535
+Thiophaeococcus sp. JA541
+Marichromatium sp. JA547
+Marichromatium sp. JA536
+Marichromatium sp. JA260
+Marichromatium sp. JA387
+Marichromatium sp. JA638
+Thiorhodococcus sp. MTHHDM183
+Chromatiaceae bacterium MTCANM191
+Chromatiaceae bacterium MTCANM188
+Marichromatium sp. JA537
+Marichromatium sp. JA546
+Marichromatium sp. JA540
+Marichromatium sp. JA321
+Marichromatium sp. JA548
+Marichromatium sp. JA552
+uncultured Thiohalocapsa sp.
+environmental samples
+uncultured Marichromatium sp.
+uncultured Allochromatium sp.
+environmental samples
+Thiocapsa marina 5811
+Rheinheimera sp. 97(2010)
+Thiorhodospira sibirica ATCC 700588
+Thiorhodococcus drewsii AZ1
+Thioflavicoccus mobilis 8321
+Thiocystis violascens DSM 198
+Marichromatium purpuratum 984
+Lamprocystis purpurea DSM 4197
+Ectothiorhodospira haloalkaliphila ATCC 51935
+Marichromatium sp. JA503
+Thiophaeococcus fuscus
+Marichromatium sp. JA550
+Marichromatium chrysaorae
+Allochromatium sp. JA634
+Allochromatium sp. JA560
+Allochromatium sp. JA603
+Marichromatium sp. JA607
+Marichromatium sp. JA606
+Marichromatium sp. JA605
+Thiocapsa sp. JA609
+Rheinheimera sp. PS23(2010)
+Rheinheimera sp. PS39(2010)
+Rheinheimera sp. PS1(2010)
+Thiorhodococcus sp. JA596
+Allochromatium sp. JA597
+Allochromatium sp. JA599
+Marichromatium sp. JA600
+Allochromatium sp. JA596
+Thioalkalivibrio sp. ALSr1
+Thioalkalivibrio sp. ALgr4
+Thioalkalivibrio sp. ALgr2
+Thioalkalivibrio sp. ALgr1
+Thioalkalivibrio sp. ALJ6
+Thioalkalivibrio sp. ALJ15
+Thioalkalivibrio sp. ALE10
+Ectothiorhodospiraceae bacterium IMCC2494
+Ectothiorhodospiraceae bacterium IMCC2387A
+Ectothiorhodospiraceae bacterium IMCC2382B
+Ectothiorhodospiraceae bacterium IMCC2378
+Ectothiorhodospiraceae bacterium IMCC2359A
+Ectothiorhodospiraceae bacterium IMCC2352B
+Ectothiorhodospiraceae bacterium IMCC2333A
+Ectothiorhodospiraceae bacterium IMCC2317A
+Thiophaeococcus sp. JA592
+uncultured Thiobaca sp.
+environmental samples
+Rheinheimera sp. NG3(2010)
+Rheinheimera sp. HSD-7105
+Allochromatium sp. JA506
+Ectothiorhodospira sp. JA579
+Ectothiorhodospira sp. JA578
+Allochromatium sp. JA584
+uncultured Thiofaba sp.
+environmental samples
+Thioalkalivibrio thiocyanoxidans ARh 4
+Thioalkalivibrio thiocyanodenitrificans ARhD 1
+Thioalkalivibrio paradoxus ARh 1
+uncultured Chromatiales bacterium HF0200_41F04
+Ectothiorhodospiraceae bacterium NOW
+Rheinheimera sp. RAS37
+Halothiobacillus sp. HT1
+Halothiobacillus sp. HL20
+Halothiobacillus sp. HL2
+Thioalkalivibrio sp. ALOw1
+Marichromatium sp. JA497
+Marichromatium sp. JA499
+Marichromatium sp. JA500
+Marichromatium sp. JA509
+Marichromatium sp. JA507
+Marichromatium sp. JA498
+Allochromatium sp. JA523
+uncultured Thiohalomonas sp.
+environmental samples
+Thioprofundum
+Rheinheimera sp. HMD2012
+Rheinheimera sp. HMD2008
+Rheinheimera sp. HMD2159
+uncultured Thiohalospira sp.
+environmental samples
+uncultured Thioflavicoccus sp.
+environmental samples
+Rheinheimera sp. BZ19
+Pararheinheimera aquatica
+Rheinheimera sp. YCSD39
+Halothiobacillus sp. ST15
+Alkalispirillum sp. ACO5
+Alkalispirillum sp. ACO4
+Alkalispirillum sp. ACO3
+Alkalispirillum sp. ACO2
+Alkalispirillum sp. ACO1
+Rheinheimera sp. T3
+uncultured Halorhodospira sp.
+environmental samples
+Granulosicoccus sp. ZS4-22
+Thiorhodovibrio sp. 970
+Allochromatium sp. JA383
+Allochromatium sp. JA423
+Allochromatium sp. JA449
+Thiorhodococcus sp. JA362
+Rheinheimera sp. TPS16
+Chromatium weissei
+Chromatiaceae bacterium MTWDM004
+Chromatiaceae bacterium MTPP2IF163
+Marichromatium sp. MTCH2IM059
+Allochromatium sp. MTCH3IM086
+Marichromatium sp. MTCH3IM052
+Marichromatium sp. MTCH3IM049
+Marichromatium sp. MTCH3IM047
+Marichromatium sp. MTCH3IM033
+Thiocapsa sp. MTCH3IM012
+Allochromatium sp. MTCH3IM013
+Thiocapsa sp. MTV2IF083
+Thiocapsa sp. MTWDM061
+Marichromatium sp. MTWDM034
+Thiocapsa sp. MTWDM010
+Halochromatium sp. MTK1IM127
+Halochromatium sp. MTK8IM030
+Halochromatium sp. MTK6IM088
+Marichromatium sp. MTK6IM015
+Halochromatium sp. MTK5IM027
+Halochromatium sp. MTK2IM039
+Halochromatium sp. MTK2IM023
+Marichromatium sp. MTK2IM017
+Marichromatium sp. MTKK6IM001
+Thiocapsa sp. MTPP2IF162
+Thiocapsa sp. MTRDDF078
+Thiocapsa sp. MTRDDF081
+Thiobaca sp. MTRDDF079
+Allochromatium sp. MT6010
+Thiocapsa sp. KS1
+Rheinheimera sp. Chandigarh
+Rheinheimera sp. BCCS 035
+Marichromatium sp. LC83
+Ectothiorhodospira shaposhnikovii DSM 2111
+Candidatus Thiosymbion oneisti
+Granulosicoccus coccoides
+Rheinheimera sp. JSM 083085
+Rheinheimera sp. enrichment culture clone AM15
+Thiohalobacter thiocyanaticus
+Halothiobacillus sp. TG-S115
+Arhodomonas sp. DMSP04
+Arhodomonas sp. enrichment culture clone DMSP04
+environmental samples
+Rheinheimera sp. OTSz_A_220
+Allochromatium sp. JA444
+Rheinheimera sp. B1-129
+Allochromatium vinosum DSM 180
+Candidatus Thiodictyon syntrophicum str. Cad16
+Thioprofundum lithotrophicum
+Marichromatium sp. WS-2008
+Marichromatium sp. MP1
+Marichromatium sp. CLA37
+Ectothiorhodospira salini
+Rheinheimera nanhaiensis E407-8
+Rheinheimera sp. CF6-12
+Rheinheimera sp. CF12-15
+Rheinheimera sp. CF12-10
+Phaeochromatium fluminis
+Halothiobacillus neapolitanus c2
+Chromatiaceae bacterium GVC4
+Allochromatium tepidum
+Candidatus Nitrosacidococcus tergens
+Chromatiaceae bacterium NM2
+Chromatiaceae bacterium G8
+Thiorhodospira sp. SLG
+Ectothiorhodospira sp. LO12
+Ectothiorhodospira sp. ES3
+Thiofaba
+Marichromatium sp. L55
+Candidatus Thiosymbion hypermnestrae
+Thioalbus denitrificans
+Thioalkalivibrio sp. ALRU1
+Thioalkalivibrio sp. ALR9
+Thioalkalivibrio sp. ALR8
+Thioalkalivibrio sp. ALR6
+Thioalkalivibrio sp. ALR5
+Thioalkalivibrio sp. ALR4
+Thioalkalivibrio sp. ALR3
+Thioalkalivibrio sp. ALR20
+Thioalkalivibrio sp. ALR16
+Thioalkalivibrio sp. ALR14
+Thioalkalivibrio sp. ALN1
+Thioalkalivibrio sp. ALMg14
+Thioalkalivibrio sp. ALJ24
+Thioalkalivibrio sp. ALE20
+Thioalkalivibrio sp. ALBR_X3
+Thioalkalivibrio sp. ALBR_X2
+Thioalkalivibrio sp. ALBR_X1
+Thioalkalivibrio sp. ALBR6
+Thioalkalivibrio sp. ALBR5
+Thioalkalivibrio sp. ALBR4
+Thioalkalivibrio sp. ALBR3
+Thioalkalivibrio sp. ALBR2
+Thioalkalivibrio sp. ALBR1
+Thioalkalivibrio sp. AKL15
+Thioalkalivibrio sp. AKL11
+Marichromatium sp. JA121
+Rheinheimera sp. W2
+Thiocapsa sp. JA250
+uncultured Lamprocystis sp.
+environmental samples
+uncultured Alkalilimnicola sp.
+environmental samples
+uncultured Thiorhodospira sp.
+environmental samples
+Marichromatium sp. 275-26R
+Marichromatium sp. 09261-374
+Chromatiaceae bacterium ACEMC 28-10
+Halopeptonella vilamensis
+Rheinheimera sp. 01WB03.3-53
+Rheinheimera sp. 01WB03.3-60
+Rheinheimera sp. 01WB03.4-13
+Rheinheimera sp. 01WB03.3-29
+Rheinheimera sp. 01WB03.3-21
+Marichromatium sp. JA328
+Thiorhodococcus fuscus
+Thiorhodococcus modestalkaliphilus
+Marichromatium litoris
+Marichromatium sp. JA350
+Chromatiaceae bacterium MOLA 91
+Rheinheimera sp. MOLA 75
+Rheinheimera sp. MOLA 429
+Rheinheimera sp. AKB-2008-TE32
+Rheinheimera sp. AKB-2008-4218G
+Rheinheimera sp. AKB-2008-4218A
+Thiocapsa bogorovii
+Thiorhodococcus pfennigii
+Ectothiorhodospira sp. PHS-1
+Ectothiorhodospira sp. MLP2
+uncultured Thiohalophilus sp.
+environmental samples
+Ectothiorhodospira sp. ML Ecto
+Rheinheimera sp. A13L
+Ectothiorhodospira variabilis
+Allochromatium humboldtianum
+Rheinheimera sp. a96
+Thiocapsa machilipatnamensis
+Marichromatium sp. SW26
+Arhodomonas sp. 50B226a_3
+Arhodomonas sp. 50B226a_2
+Arhodomonas sp. 50B226a_1
+Rheinheimera sp. REI_85
+Ectothiorhodospira sp. AM4
+Allochromatium truperi
+Ectothiorhodospira imhoffii
+Halothiobacillus sp. NP49
+Halothiobacillus sp. NP37
+Halothiobacillus sp. NP36
+Chromatiaceae bacterium CAa82
+Chromatiaceae bacterium CAa315
+Chromatiaceae bacterium CAa102
+Thiohalospira alkaliphila
+Thiohalospira
+Rheinheimera sp. G3DM-27
+Rheinheimera sp. G2DM-88
+Rheinheimera sp. THWCSN2
+Nitrosococcus oceani AFC27
+Nitrosococcus watsonii
+Nitrosococcus halophilus Nc 4
+Thiodictyon sp. f4
+Rheinheimera sp. YIM C817
+Allochromatium sp. DSM 214
+Thioalkalibacter halophilus
+Thioalkalibacter
+Thiocapsa subramanianii
+Marichromatium sp. 283-1
+Thiophaeococcus mangrovi
+Thiophaeococcus
+Chromatiales bacterium TP178
+Chromatiales incertae sedis
+Granulosicoccaceae
+Halothiobacillus sp. ATSB8
+Halothiobacillus sp. ATSB7
+Halothiobacillus sp. ATSB6
+Halothiobacillus sp. ATSB5
+Halothiobacillus sp. ATSB2
+Halothiobacillus sp. ATSB15
+Halothiobacillus sp. ATSB12
+Thiohalophilus
+Thiofaba tepidiphila
+Pararheinheimera soli
+Granulosicoccus antarcticus
+Granulosicoccus
+Rheinheimera sp. R942
+Rheinheimera sp. R925
+Rheinheimera sp. R923
+Rheinheimera sp. WMF-1
+Allochromatium phaeobacterium
+Thiohalocapsa marina
+Halorhodospira abdelmalekii
+Ectothiorhodospira haloalkaliphila
+uncultured Halothiobacillaceae bacterium
+environmental samples
+Thiocapsa sp. ShNAm02
+Thiocapsa sp. ShAm01
+Thiorhodococcus sp. Mog2
+Thiocystis sp. Mog3
+Thiocapsa sp. Mog1
+Thiohalomonas denitrificans
+uncultured Chromatium sp.
+environmental samples
+Rheinheimera sp. JL1145
+Natronocella acetinitrilica
+Natronocella
+Rheinheimera aquimaris
+Aquisalimonas asiatica
+Aquisalimonas
+Rheinheimera sp. R940
+Rheinheimera sp. JL032
+Chromatiaceae bacterium D10-48
+Allochromatium renukae
+uncultured Rheinheimera sp.
+environmental samples
+Rheinheimera tangshanensis
+Thiohalomonas nitratireducens
+Thiohalomonas
+Thioalkalivibrio sp. K90mix
+Thioalkalivibrio sulfidiphilus HL-EbGr7
+Thioprofundum hispidum
+Halochromatium roseum
+Thiorhodococcus kakinadensis
+Imhoffiella bheemlica
+Rheinheimera sp. LM3605
+Thiocapsa imhoffii
+Thiohalophilus thiocyanatoxydans
+Thiohalospira halophila
+Halothiobacillus sp. HL27
+Halothiobacillus sp. HL1
+Halothiobacillus sp. HL-U1
+Rheinheimera sp. J3-AN42
+Rheinheimera sp. J3-A5
+Rheinheimera sp. J3-A33
+Rheinheimera perlucida
+Rheinheimera sp. SC3
+Marichromatium bheemlicum
+Ectothiorhodospira sp. Edb1.1
+Ectothiorhodospira sp. C2T-PN-L2
+Allochromatium sp. Ber2201
+Marichromatium sp. JA120
+Pararheinheimera chironomi
+chironomid egg mass bacterium K19410
+Rheinheimera sp. 114NP12
+Halothiobacillus sp. BI24
+Rheinheimera sp. Gbf-Ret-3
+Alkalilimnicola ehrlichii
+Alkalispirillum sp. AHN 1
+Alkalispirillum sp. Z 7008
+Alkalispirillum sp. ALPs 2
+Alkalispirillum sp. AGDZ
+Rheinheimera sp. 3006
+Halorhodospira halophila SL1
+Lamprocystis sp. D21
+Thiocystis chemoclinalis
+Thiocystis cadagnonensis
+Chromatiaceae bacterium F8
+Ectothiorhodospiraceae bacterium 118
+Rheinheimera sp. E4IPC-4712
+Arsukibacterium ikkense
+Arsukibacterium
+Chromatiaceae bacterium GCM59
+Chromatiaceae bacterium GCM26
+Thiorhodococcus mannitoliphagus
+uncultured Halothiobacillus sp.
+environmental samples
+Nitrosococcus oceani ATCC 19707
+Marichromatium chilcum
+Thermochromatium tepidum ATCC 43061
+Nitrosococcus oceani C-27
+Nitrococcus mobilis Nb-231
+Thiovirga
+Thiocapsa sp. BH-1
+Pararheinheimera texasensis
+uncultured Halochromatium sp.
+environmental samples
+uncultured Nitrococcus sp.
+environmental samples
+Rheinheimera sp. Man10
+uncultured Thiorhodovibrio sp.
+environmental samples
+uncultured Chromatiales bacterium
+environmental samples
+uncultured Thioalkalivibrio sp.
+environmental samples
+uncultured Nitrosococcus sp.
+environmental samples
+uncultured Thiocapsa sp.
+environmental samples
+Rheinheimera sp. SW2.1
+uncultured Thiorhodococcus sp.
+environmental samples
+Halothiobacillaceae
+Rheinheimera sp. R246
+Thioalkalivibrio halophilus
+uncultured Thiococcus sp.
+environmental samples
+Thiocapsa marina
+Thiovirga sulfuroxydans
+Thioalkalivibrio thiocyanodenitrificans
+Ectothiorhodosinus mongolicus
+Ectothiorhodosinus
+Allochromatium palmeri
+Chromatium sp. Kaiike
+Marichromatium indicum
+Thiocapsa purpurea
+Chromatiaceae bacterium 453H-1
+Thiospirillum
+Thiopedia
+Thiorhodococcus drewsii
+Rheinheimera sp. KIN89
+Rheinheimera sp. KIN35
+Thioalkalispira microaerophila
+Thioalkalispira
+uncultured Ectothiorhodospiraceae bacterium
+Ectothiorhodospira mobilis
+Halothiobacillus sp. WJ18
+Halothiobacillus sp. RA13
+Thioalkalivibrio sp. ALMg 2
+Alkalilimnicola ehrlichii MLHE-1
+unclassified Ectothiorhodospiraceae
+Thioalkalivibrio nitratireducens
+uncultured Chromatiaceae bacterium
+Rheinheimera pacifica
+Arhodomonas sp. EL-201
+Halorhodospira neutriphila
+Chromatium sp. RW
+Chromatium sp. NM2
+Acidihalobacter prosperus
+Thioalkalicoccus
+Thioflavicoccus
+Thiorhodospira sibirica
+Thiorhodospira
+Thioalkalivibrio thiocyanoxidans
+Thiocapsa sp. 1727a
+Thioalkalivibrio jannaschii
+Chromatiales
+Nitrosococcus halophilus
+Alkalilimnicola halodurans
+Alkalilimnicola
+Thiococcus sp. AT2206
+Thiococcus sp. AT2205
+Thiococcus sp. AT2204
+Halochromatium sp. AR2202
+Halochromatium sp. AR2201
+Allochromatium sp. AT2203
+Allochromatium sp. AT2202
+Thiobaca trueperi
+Thiobaca
+Thioalkalicoccus limnaeus
+Thiococcus sp. A31
+unclassified Rheinheimera
+gamma proteobacterium HTB019
+gamma proteobacterium HTB021
+gamma proteobacterium HTB010
+gamma proteobacterium HTB082
+uncultured Rhabdochromatium sp. MT58
+environmental samples
+Halothiobacillus kellyi
+Halothiobacillus
+Thioalkalivibrio paradoxus
+Thioalkalivibrio denitrificans
+Thioalkalivibrio nitratis
+Thioalkalivibrio versutus
+Thioalkalivibrio
+Nitrosococcus watsonii C-113
+uncultured bacterium PENDANT-18
+environmental samples
+uncultured bacterium EKHO-2
+uncultured bacterium BURTON-56
+environmental samples
+uncultured bacterium ACE-31
+environmental samples
+Thiocapsa litoralis
+Thiorhodovibrio sibirica
+Alkalispirillum mobile
+Alkalispirillum
+Halorhodospira
+Thiohalocapsa
+Thiococcus
+Isochromatium
+Marichromatium
+Halochromatium glycolicum
+Halochromatium
+Thermochromatium
+Allochromatium
+uncultured chemocline bacterium ML9100
+uncultured chemocline bacterium ML3720
+uncultured chemocline bacterium ML1970
+uncultured chemocline bacterium ML660
+uncultured chemocline bacterium Chrom 4
+uncultured chemocline bacterium Chrom 3
+uncultured chemocline bacterium Chrom 2
+uncultured chemocline bacterium Chrom 1
+environmental samples
+purple sulfur bacterium Tobar01
+unclassified Chromatiaceae
+Thiolamprovum pedioforme
+Thiolamprovum
+Ectothiorhodospira sp. 'Bogoria Red'
+Thioflavicoccus mobilis
+Chromatium sp. HMD001
+Thiorhodovibrio winogradskyi
+Thiocystis violascens
+Ectothiorhodospiraceae
+Thiocapsa rosea
+Thiohalocapsa halophila
+Rheinheimera baltica
+Rheinheimera
+Chromatium sp. EP2204
+Thiocapsa sp. 5813
+Chromatium okenii
+Lamprocystis purpurea
+Thiocystis minor
+Allochromatium minutissimum
+Allochromatium warmingii
+Thiorhodovibrio sp.
+Thiorhodovibrio
+Thiorhodococcus minor
+Thiorhodococcus
+Lamprocystis roseopersicina
+Lamprocystis
+Thiodictyon elegans
+Thiodictyon bacillosum
+Thiodictyon
+Halochromatium salexigens
+Rhabdochromatium marinum
+Rhabdochromatium
+Guyparkeria halophila
+Thiocystis gelatinosa
+Isochromatium buderi
+Nitrosococcus nitrosus
+Marichromatium purpuratum
+Nitrococcus mobilis
+Nitrococcus
+Thiocystis violacea
+Thiocystis
+Thiocapsa pendens
+Arhodomonas aquaeolei
+Arhodomonas
+Nitrosococcus oceani
+Nitrosococcus
+Thiocapsa roseopersicina
+Thiococcus pfennigii
+Thiocapsa
+Ectothiorhodospira shaposhnikovii
+Halorhodospira halophila
+Halorhodospira halochloris
+Ectothiorhodospira
+Thermochromatium tepidum
+Allochromatium vinosum
+Marichromatium gracile
+Chromatium
+Chromatiaceae
+Halothiobacillus neapolitanus
+Guyparkeria hydrothermalis
